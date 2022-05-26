@@ -1,0 +1,56 @@
+/* GLobal styles*/
+
+body {
+    color: black; 
+}
+
+img {
+    width: 300px; 
+}
+
+a  {
+    color: gainsboro;
+}
+
+a:hover {
+    color: antiquewhite; 
+    text-decoration: none;
+}
+
+/*Profile*/
+
+header {
+    background-color: #6e7e85;
+}
+
+/*Project*/
+.project {
+    background-color: #b7cece;
+}
+
+.project a {
+    background: #6e7e85;
+    padding: 6px; 
+    color: white; 
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.project a:hover {
+    background-color: rgba(127, 148, 156, 80%);
+}
+
+/*Work Experience */
+.work {
+    background-color: #bbbac6;
+}
+
+/*Education */
+.education {
+    background-color: #e2e2e2 ;
+}
+
+/*Contact Info */
+footer {
+    background-color: #6e7e85;    
+}
